@@ -1,11 +1,11 @@
 event:
-  name: "WordCamp São Paulo 2016"
+  name: "eHealth Perú"
   url: "http://ehealth.org.pe"
   date: "December 10, 2016"
   duration: "8 hours"
 site:
   lang: "en"
-  title: "Certificates for WordCamp São Paulo 2016"
+  title: "Certificado de asistencia"
   logo: "static/images/logo.png"
   index:
     message: "Ingresa un correo electrónico para generar el certificado"
@@ -15,18 +15,18 @@ site:
 certificate:
   logo: "static/images/logo.png"
   background: "static/images/background.png"
-  textLine1: "Declaramos para os devidos fins que"
-  textLine2: "Participou do evento %event_name%, no dia %event_date%, na qualidade de %attendee_type%, cumprindo uma carga horária total de %event_duration%."
+  textLine1: ""
+  textLine2: ""
 routes:
-  certificate: certificate
+  certificate: Certificado
 errors:
   error: "<strong>Error:</strong> %message%"
   missingEmail: "Missing email address!"
   invalidEmail: "Invalid email address!"
-  emailNoExists: "The email address does not exists!"
-  notAttended: "You did not attended to this WordCamp!"
-  csvError: "An error occurred while reading the CSV file!"
-  csrfError: "Cheatin' huh?"
-  error404: "404: Page not Found"
-  error500: "500: Internal Server Error"
+  emailNoExists: "¡El correo electrónico no está en la lista de asistentes!"
+  notAttended: "¡No cumpliste con la asistencia!"
+  csvError: "Ocurrió un error al leer el fichero .csv"
+  csrfError: "¿Haciendo trampa?"
+  error404: "404: Página no encontrada"
+  error500: "500: Error interno en el servidor"
 csv: csv/sample.csv

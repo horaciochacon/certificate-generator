@@ -36,7 +36,8 @@ body {
 }
 
 h1 {
-  margin: 0.5cm 0.4cm;
+  margin: 0.5cm 0;
+  margin-left: 0.5cm;
 }
 
 p {

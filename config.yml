@@ -13,7 +13,7 @@ site:
     inputLabel: "Email"
     submit: "Generar"
 certificate:
-  logo: "static/images/logo.png"
+  logo: ""
   background: "static/images/background.png"
   textLine1: ""
   textLine2: ""

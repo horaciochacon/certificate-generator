@@ -11,13 +11,13 @@ Edita el archivo `config.yml` con la información de tu evento.
 
 ## Ejecución
 
-[Node.js](http://nodejs.org/) es requirido.
+[Node.js](http://nodejs.org/) es requerido.
 
 ```shell
-$ git clone https://github.com/wpbrasil/certificates-for-wordcamp.git
-$ cd certificates-for-wordcamp
+$ git clone https://github.com/horaciochacon/certificate-generator.git
+$ cd certificate-generator
 $ npm install
 $ npm start
 ```
 
-You can access <http://localhost:3000> on your web browser.
+Puedes acceder desde <http://localhost:3000> en tu navegador.

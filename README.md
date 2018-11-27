@@ -1,17 +1,17 @@
-Certificates generator for WordCamps
+Generador de Certificados de asistencia
 ------------------------------------
 
-A tiny certificate generator for WordCamps.
+Pequeño aplicativo web de genera certificados de asistencia utilizando .csv como fuente.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Setting
+## Configuración
 
-Fill out the `config.yml` file with your WordCamp info.
+Edita el archivo `config.yml` con la información de tu evento.
 
-## Run
+## Ejecución
 
-[Node.js](http://nodejs.org/) is required.
+[Node.js](http://nodejs.org/) es requirido.
 
 ```shell
 $ git clone https://github.com/wpbrasil/certificates-for-wordcamp.git

@@ -1,6 +1,6 @@
 event:
   name: "WordCamp São Paulo 2016"
-  url: "http://2016.saopaulo.wordcamp.org/"
+  url: "http://ehealth.org.pe"
   date: "December 10, 2016"
   duration: "8 hours"
 site:
@@ -8,10 +8,10 @@ site:
   title: "Certificates for WordCamp São Paulo 2016"
   logo: "static/images/logo.png"
   index:
-    message: "Instructions here"
-    emailPlaceholder: "my@email.com"
+    message: "Ingresa un correo electrónico para generar el certificado"
+    emailPlaceholder: "mi@correo.com"
     inputLabel: "Email"
-    submit: "Generate"
+    submit: "Generar"
 certificate:
   logo: "static/images/logo.png"
   background: "static/images/background.png"

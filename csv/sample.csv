@@ -1,6 +1,0 @@
-type,first_name,last_name,email,attendance
-Participante,Claudio,Sanches,claudio.sanches@email.com,Yes
-Participante,John,Doe,john.doe@email.com,No
-Palestrante,Professor,X,professor.x@email.com,Yes
-Participante,Horacio,Chacón,horacio.chacon@gmail.com,Yes
-Participante,Oscar,Huapaya,oscar.huapaya@gmail.com,No

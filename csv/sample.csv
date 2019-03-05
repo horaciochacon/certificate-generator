@@ -1,6 +1,77 @@
-type,first_name,last_name,email,attendance
-Participante,Claudio,Sanches,claudio.sanches@email.com,Yes
-Participante,John,Doe,john.doe@email.com,No
-Palestrante,Professor,X,professor.x@email.com,Yes
-Participante,Horacio,Chacón,horacio.chacon@gmail.com,Yes
-Participante,Oscar,Huapaya,oscar.huapaya@gmail.com,No
+﻿type,first_name,last_name,email,attendance
+Participante,NINOSKAR ROJAS SOTO,NINOSKAR ROJAS SOTO,NINOSKARS@HOTMAIL.COM,Yes
+Participante,KARLA GONZALES SANDOVAL,KARLA GONZALES SANDOVAL,karla_gs15@hotmail.com,Yes
+Participante,VICTOR OSWALDO CALDERON OCON,VICTOR OSWALDO CALDERON OCON,victorino_98@hotmail.com,Yes
+Participante,RONCEROS DEL RIO JOSE IGNACIO,RONCEROS DEL RIO JOSE IGNACIO,roncerosdr@hotmail.com,Yes
+Participante,HUARCAYA TIRADO ESTHER,HUARCAYA TIRADO ESTHER,lourdeshuti@gmail.com,Yes
+Participante,YUY MILAGROS SIERRA ROMERO,YUY MILAGROS SIERRA ROMERO,yuysierra338@gmail.com,Yes
+Participante,JULIO EDGAR ZATTA CONDOR,JULIO EDGAR ZATTA CONDOR,juzaco_fibe30@hotmail.com,Yes
+Participante,LISSET SOTTECANI CUSI,LISSET SOTTECANI CUSI,prp_1993@hotmail.com,Yes
+Participante,MARITZA PERALTA CURI,MARITZA PERALTA CURI,maritzapc.2105@gmail.com,Yes
+Participante,JUAN J.ROJAS MONTALVAN,JUAN J.ROJAS MONTALVAN,juanju.rm@hotmail.com,Yes
+Participante,ALEX MEJIA RODRIGUEZ ,ALEX MEJIA RODRIGUEZ ,alexmejia.med@gmail.com,Yes
+Participante,LUIS E. CASTILLO MARTINEZ,LUIS E. CASTILLO MARTINEZ,lecmcastillo@gmail.com,Yes
+Participante,LUIS R. CALDERON HERNANDEZ,LUIS R. CALDERON HERNANDEZ,lcalderonhernandez@,Yes
+Participante,IRIS LILIANA GONZALES SARAVIA,IRIS LILIANA GONZALES SARAVIA,igs.med.10@gmail.com,Yes
+Participante,LOURDES DEL ROSARIO DAVID SALAS,LOURDES DEL ROSARIO DAVID SALAS,lourdes.david.s@upch.pe,Yes
+Participante,SUSY BAZAN RUIZ,SUSY BAZAN RUIZ,susybr23@gmail.com,Yes
+Participante,CRISTHIAN GABRIEL TAPIA GUEVARA,CRISTHIAN GABRIEL TAPIA GUEVARA,cristian.tapia.g@upch.pe,Yes
+Participante,KELLY BRICEL CALDAS QUEZADA,KELLY BRICEL CALDAS QUEZADA,kelly.caldas.q@upch.pe,Yes
+Participante,PATRICIA QUEVEDO PORAS,PATRICIA QUEVEDO PORAS,patricia.quevedo.p@upch.pe,Yes
+Participante,KEVIN MAGAÑO BOCANEGRA,KEVIN MAGAÑO BOCANEGRA,kevinmb1999@hotmail.com,Yes
+Participante,DAVID KEVIN CALSINA QUISPE,DAVID KEVIN CALSINA QUISPE,davidcq513@outlook.com,Yes
+Participante,RUTH GIRIARTE VEGA ,RUTH GIRIARTE VEGA ,giriartevega@yahoo.es,Yes
+Participante,BRUNO GUERRERO ANSMENDEZ,BRUNO GUERRERO ANSMENDEZ,bruno.guerrero.a@hotmail.com,Yes
+Participante,ROJAS ALVARADO CINTHIA ,ROJAS ALVARADO CINTHIA ,cinthita_rojas@hotmail.com,Yes
+Participante,YESSENIA CAROLINA CRUZ MERINO,YESSENIA CAROLINA CRUZ MERINO,cruzmeca@hotmail.com,Yes
+Participante,MELISSA MORALES COLOMA ,MELISSA MORALES COLOMA ,melissa.morales.c@upch.pe,Yes
+Participante,ANAIS THATIANA CAMARA REYES,ANAIS THATIANA CAMARA REYES,anais_091@hotmail.com,Yes
+Participante,CHRISTOPHER MACHADO CABALLERO,CHRISTOPHER MACHADO CABALLERO,christopher_machado@hotmail.com,Yes
+Participante,JIMENEZ TORNERO GIEDY,JIMENEZ TORNERO GIEDY,lumiere27161@gmail.com,Yes
+Participante,LORENA OLIVOS SALAZAR,LORENA OLIVOS SALAZAR,lore_olivoss@hotmail.com,Yes
+Participante,LISSETTE GUTIERREZ,LISSETTE GUTIERREZ,zmora_14@hotmail.com,Yes
+Participante,CARLO SANTAMARIA TITO,CARLO SANTAMARIA TITO,carlo.santamariat@gmail.com,Yes
+Participante,JACQUELINE MONTOYA VASQUEZ,JACQUELINE MONTOYA VASQUEZ,eliza_79mv@hotmail.com,Yes
+Participante,ROSARIO RIVERA COLQUI,ROSARIO RIVERA COLQUI,charitoc_8@hotmail.com,Yes
+Participante,ESMERALDA MERCEDES LEON LOPEZ,ESMERALDA MERCEDES LEON LOPEZ,smeleon16@gmail.com,Yes
+Participante,HILDA GONZALES VALDEZ,HILDA GONZALES VALDEZ,hilda_s_v@hotmail.com,Yes
+Participante,ALTAMIRANO MILAGROS,ALTAMIRANO MILAGROS,milagros.altamirano2@gmail.com,Yes
+Participante,MILDRED BIANCA PILCO ALVAREZ,MILDRED BIANCA PILCO ALVAREZ,mildredcita@outlook.com,Yes
+Participante,RICARDO JUNIOR MENDOZA HINOSTROZA,RICARDO JUNIOR MENDOZA HINOSTROZA,RJAH_01@hotmail.com,Yes
+Participante,ALBERT MARTIN ECHEVARRIA MENDOZA,ALBERT MARTIN ECHEVARRIA MENDOZA,albert_29_06@hotmail.com,Yes
+Participante,CINDY ALCARRAZ,CINDY ALCARRAZ,cindyalcarraz@gmail.com,Yes
+Participante,GRACE MARLY TESCARI,GRACE MARLY TESCARI,gracemarly.tescari@gmail.com,Yes
+Participante,ANA MEJIA AZAÑERO,ANA MEJIA AZAÑERO,annsuzzet.ma@gmail.com,Yes
+Participante,FLORES DEL CARPIO KATHERINE,FLORES DEL CARPIO KATHERINE,katty7@hotmail.com,Yes
+Participante,LUZ BARDALES RUIZ,LUZ BARDALES RUIZ,luzbard@yahoo.com,Yes
+Participante,JOSE LUIS SALINAS,JOSE LUIS SALINAS,peposp@hotmail.com,Yes
+Participante,KATY ORDOÑEZ TENORIO,KATY ORDOÑEZ TENORIO,katy_ordoñez@hotmail.com,Yes
+Participante,ROMAN CASTILLO MIRTA,ROMAN CASTILLO MIRTA,mirta.roman.castillo@gmail.com,Yes
+Participante,CARLA MORE DELGADO,CARLA MORE DELGADO,elenog_2@hotmail.com,Yes
+Participante,CECILIA CARDENAS LITANO,CECILIA CARDENAS LITANO,ceciliacarli9@yahoo.com,Yes
+Participante,GAUNA PACHECO HENRY,GAUNA PACHECO HENRY,henrygaryp@hotmail.com,Yes
+Participante,POCCO QUISPE LUZMARINA,POCCO QUISPE LUZMARINA,shamanta_1_1@hotmail.com,Yes
+Participante,VITORIA TIMMEN RAYMUNDO,VITORIA TIMMEN RAYMUNDO,vi.timmen@gmail.com,Yes
+Participante,YINNO CUSTODIO HERNANDEZ,YINNO CUSTODIO HERNANDEZ,yinno_pch@hotmail.com,Yes
+Participante,ULISA ALIAGA CHAVEZ,ULISA ALIAGA CHAVEZ,ulisa_20@hotmail.com,Yes
+Participante,TAFUR ALIAGA ALBERTO,TAFUR ALIAGA ALBERTO,sanjuanbautista_01@hotmail.com,Yes
+Participante,MILAGROS CAVERO,MILAGROS CAVERO,mecosar@yahoo.es,Yes
+Participante,LOURDES LOPEZ,LOURDES LOPEZ,lourdes.lopez.cha@gmail.com,Yes
+Participante,JARAMILLO LEYVA,JARAMILLO LEYVA,youfatt@hotmail.com,Yes
+Participante,MERCY OLIVER,MERCY OLIVER,mercyjol@yahoo.com,Yes
+Participante,MANUEL VALENTIN ROJO,MANUEL VALENTIN ROJO,marivalentinr@hotmail.com,Yes
+Participante,LIGIA RIOS LOPEZ,LIGIA RIOS LOPEZ,literly@hotmail.com,Yes
+Participante,CESAR EDUARDO LOPEZ PETROVICH,CESAR EDUARDO LOPEZ PETROVICH,celpetro2000@yahoo.com,Yes
+Participante,YESSENIA VEGAS ROMERO ,YESSENIA VEGAS ROMERO ,yesse644@hotmail.com,Yes
+Participante,LUIS EDUARDO HERNANDEZ FLORES ,LUIS EDUARDO HERNANDEZ FLORES ,lehf1@hotmail.com,Yes
+Participante,ROCIO DEL PILAR CLAUDIA FIORELLA,ROCIO DEL PILAR CLAUDIA FIORELLA,chio294@hotmail.com,Yes
+Participante,ARAMAYO,ARAMAYO,claudiaspy@gmail.com,Yes
+Participante,MELISSA CATALAN BARRIOS ,MELISSA CATALAN BARRIOS ,melica_17@hotmail.com,Yes
+Participante,LIMAYMANTE REYES LIZETH ,LIMAYMANTE REYES LIZETH ,lizeth_650@hotmail.com ,Yes
+Participante,ALEJANDRA LA TORRE MATUR,ALEJANDRA LA TORRE MATUR,latorrematuk@gmail.com,Yes
+Participante,LARZUZO  MACO CHAVEZ,LARZUZO  MACO CHAVEZ,lmaco9075@hotmail.com,Yes
+Participante,OLIMPIO HUANCA FARCON,OLIMPIO HUANCA FARCON,olimphfal_714@hotmail.com,Yes
+Participante,CABEZAS ORELLANA DIEGO,CABEZAS ORELLANA DIEGO,diego.cabezas14@gmail.com,Yes
+Participante,MALLMA SOTO VICTOR,MALLMA SOTO VICTOR,victormallmasoto@gmail.com,Yes
+Participante,ORCIOSAPA QUISPE MARY KARLA ,ORCIOSAPA QUISPE MARY KARLA ,m20-k07@yahoo.com,Yes
+Participante,HORACIO CHACÓN TORRICO,HORACIO CHACÓN TORRICO,horaciochacon89@gmail.com,No

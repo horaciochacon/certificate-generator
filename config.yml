@@ -8,9 +8,9 @@ site:
   title: "Certificado de asistencia"
   logo: "static/images/logo.png"
   index:
-    message: "Ingresa un correo electrónico para generar el certificado"
-    emailPlaceholder: "mi@correo.com"
-    inputLabel: "Email"
+    message: "Ingrese su DNI para generar el certificado"
+    emailPlaceholder: "DNI"
+    inputLabel: "DNI"
     submit: "Generar"
 certificate:
   logo: ""
@@ -23,7 +23,7 @@ errors:
   error: "<strong>Error:</strong> %message%"
   missingEmail: "Missing email address!"
   invalidEmail: "Invalid email address!"
-  emailNoExists: "¡El correo electrónico no está en la lista de asistentes!"
+  emailNoExists: "¡El DNI no está en la lista de asistentes!"
   notAttended: "¡No cumpliste con la asistencia!"
   csvError: "Ocurrió un error al leer el fichero .csv"
   csrfError: "¿Haciendo trampa?"

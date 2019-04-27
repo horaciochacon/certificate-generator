@@ -8,7 +8,7 @@ var express         = require('express');
 var expressPDF      = require('express-pdf');
 var findInCSV       = require('find-in-csv');
 var fs              = require('fs');
-var isEmail         = require('isemail');
+
 var mustache        = require('mustache');
 var mustacheExpress = require('mustache-express');
 var path            = require('path');
@@ -69,17 +69,6 @@ app.post('/' + config.routes.certificate, parseForm, csrfProtection, function (r
     event       : config.event
   };
 
-  // Validate email
-  try {
-    if ('' === email) {
-      throw 'missingEmail';
-    }
-    if (!isEmail.validate(email)) {
-      throw 'invalidEmail';
-    }
-  } catch(e) {
-    res.redirect('/?error=' + e);
-  }
 
   // Find email in CSV
   csv.get({'email': email}, function (result) {

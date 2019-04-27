@@ -8,7 +8,7 @@ var express         = require('express');
 var expressPDF      = require('express-pdf');
 var findInCSV       = require('find-in-csv');
 var fs              = require('fs');
-var isEmail         = require('isemail');
+
 var mustache        = require('mustache');
 var mustacheExpress = require('mustache-express');
 var path            = require('path');

@@ -18,7 +18,7 @@
     {{/error}}
     <form action="/{{formAction}}" method="POST" class="form-certificate">
       <input type="hidden" name="_csrf" value="{{csrfToken}}" />
-      <input type="email" name="email" aria-label="{{index.inputLabel}}" required="required" />
+      <input type="text" name="email" aria-label="{{index.inputLabel}}" required="required" />
       <button type="submit">{{index.submit}}</button>
     </form>
   </main>

@@ -69,17 +69,7 @@ app.post('/' + config.routes.certificate, parseForm, csrfProtection, function (r
     event       : config.event
   };
 
-  // Validate email
-  try {
-    if ('' === email) {
-      throw 'missingEmail';
-    }
-    if (!isEmail.validate(email)) {
-      throw 'invalidEmail';
-    }
-  } catch(e) {
-    res.redirect('/?error=' + e);
-  }
+
 
   // Find email in CSV
   csv.get({'email': email}, function (result) {

@@ -74,6 +74,9 @@ app.post('/' + config.routes.certificate, parseForm, csrfProtection, function (r
     if ('' === email) {
       throw 'missingEmail';
     }
+    if (!isEmail.validate(email)) {
+      throw 'invalidEmail';
+    }
   } catch(e) {
     res.redirect('/?error=' + e);
   }

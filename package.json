@@ -20,6 +20,7 @@
     "escape-html": "^1.0.3",
     "express-pdf": "^1.2.2",
     "find-in-csv": "^0.1.0",
+    "isemail": "^2.2.1",
     "mustache-express": "^1.2.2"
   },
   "repository": {

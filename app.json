@@ -1,0 +1,10 @@
+{
+  "name": "Certificates for WordCamps",
+  "description": "A tiny certificates generator for WordCamps.",
+  "repository": "https://github.com/wpbrasil/certificates-for-wordcamp",
+  "keywords": [
+    "node",
+    "wordcamp",
+    "certificate"
+  ]
+}
